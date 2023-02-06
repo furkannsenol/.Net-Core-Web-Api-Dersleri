@@ -1,4 +1,4 @@
-# .Net Core Web Api Dersleri
+<span text-align="center"># .Net Core Web Api Dersleri</span>
 
 <h1>UserManagement.API</h1>
 Veriler için bogus kütüphanesi kullanıldı. Database işlemi olmadan ram üzerinden veriler ile CRUD işlem yapıld
